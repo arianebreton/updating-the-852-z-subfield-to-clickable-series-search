@@ -1,0 +1,11 @@
+.env
+*.csv
+*.xlsx
+backups/
+logs/
+previews/
+responses/
+verification/
+pre*iews*
+*ogs/
+__pycache__/
