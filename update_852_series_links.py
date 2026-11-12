@@ -30,6 +30,9 @@ Path("logs").mkdir(exist_ok=True)
 # Read spreadsheet
 df = pd.read_excel(INPUT_FILE)
 
+# Limit processing to the first 5 data rows for test
+# df = df.head(5)
+
 change_log = []
 
 # Process records

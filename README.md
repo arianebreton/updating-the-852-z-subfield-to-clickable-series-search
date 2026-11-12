@@ -60,5 +60,5 @@ After validation of the titles used to generate the URLs, in the Sandbox:
 
 ## Status
 
-In progress: review of URL validation file.
+In progress: 852 fields have been updated with the series search in the Sandbox.
 
